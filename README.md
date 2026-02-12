@@ -1,9 +1,9 @@
 Welcome to my Github Account  <br>I'm a High School (Uni soon) Developer  <br>I mainly work on:  <br>- Game Development  <br>- Application Development  <br>- Low-Level Programming  <br><br>Currently I am mainly working on Game Development  <br><br>I love John Titor from Reverse: 1999  
 
-![John Titor](https://media.tenor.com/QqRxzxfREnUAAAPo/reverse-1999-john-titor.mp4)  
+  
+https://github.com/user-attachments/assets/27785bbb-78e2-41bd-adc9-b0b76cd434fe
 
-
-
+  
 My Socials:  
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bagas-harmain-3a44ba3ab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bagasharmain@gmail.com) 
