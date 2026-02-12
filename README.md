@@ -1,7 +1,7 @@
 Welcome to my Github Account  <br>I'm a High School (Uni soon) Developer  <br>I mainly work on:  <br>- Game Development  <br>- Application Development  <br>- Low-Level Programming  <br><br>Currently I am mainly working on Game Development  <br><br>I love John Titor from Reverse: 1999  
 
   
-![Description](https://media.tenor.com/OqRxzxfREnUAAAPo/reverse-1999-john-titor.mp4)
+![reverse-1999-john-titor](https://github.com/user-attachments/assets/853abaad-bd5b-41c5-9bd6-3c22f4bc85d7)
 
   
 My Socials:  
