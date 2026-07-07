@@ -1,4 +1,4 @@
-Welcome to my Github Account  <br>I'm a High School (Uni soon) Developer  <br>I mainly work on:  <br>- Game Development  (You shall not see my projects,,,)   <br><br>Currently I am mainly working on Game Development  <br><br>I love John Titor from Reverse: 1999  
+Welcome to my Github Account  <br>I'm a High School (Uni soon) Developer  <br>I mainly work on:  <br>- Game Development  (You shall not see my projects,,,)   <br><br>Currently I am mainly working on Game Development  <br><br>I love John Titor from Reverse: 1999  (shoutout to my goated friend for the pfp)
 
   
 ![reverse-1999-john-titor](https://github.com/user-attachments/assets/853abaad-bd5b-41c5-9bd6-3c22f4bc85d7)
